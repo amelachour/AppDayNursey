@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppDayNursey</string>
+    <string name="started">Get Started</string>
+    <string name="login">login</string>
+    <string name="forgetpassword">Forget Password ?</string>
+    <string name="addChild">Add A Child</string>
+    <string name="fillDay">Fill In Child Day</string>
+    <string name="export">Export Into</string>
+    <string name="save">Save</string>
+    <string name="save2">Save</string>
+    <string name="uploadimage">...</string>
+    <string name="back">back</string>
+
+
+
+</resources>
